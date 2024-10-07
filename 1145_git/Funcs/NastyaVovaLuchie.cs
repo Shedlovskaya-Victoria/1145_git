@@ -12,7 +12,7 @@ namespace _1145_git.Funcs
         public void Draw(Graphics graphics)
         {
             Bitmap bitmap = new Bitmap("Nastenka.jpg");
-            graphics.DrawImage(bitmap, new Point(500, 200));
+            graphics.DrawImage(bitmap, new Point(0, 200));
         }
     }
 }
