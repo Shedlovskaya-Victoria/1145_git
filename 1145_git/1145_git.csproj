@@ -16,8 +16,10 @@
     <None Update="2.PNG">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="yyy.PNG">
     <None Update="karasi.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="yyy.PNG">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="Nastenka.jpg">
