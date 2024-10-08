@@ -12,6 +12,7 @@ namespace _1145_git.Funcs
         public void Draw(Graphics graphics)
         {
             Bitmap bitmap = new Bitmap("eshzik.PNG");
+
             graphics.DrawImage(bitmap, new Point(100, 150));
         }
     }
