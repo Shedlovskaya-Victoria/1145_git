@@ -31,7 +31,7 @@ namespace _1145_git
                 if (type.IsPublic && type.IsClass)
                 { 
                     var instance = Activator.CreateInstance(type) as IDraw;
-                    instance.Draw(graphics);
+                    instance?.Draw(graphics);
                 }
             }
 
