@@ -16,6 +16,9 @@
     <None Update="2.PNG">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="eshzik.PNG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="karasi.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
