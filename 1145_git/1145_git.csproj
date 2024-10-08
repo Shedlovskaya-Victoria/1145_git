@@ -31,9 +31,6 @@
     <None Update="sbka.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="zaza.jpg">
-	<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="pip render.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
