@@ -19,6 +19,9 @@
     <None Update="karasi.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="pip render.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="yyy.PNG">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
